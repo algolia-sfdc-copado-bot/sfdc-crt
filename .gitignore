@@ -1,0 +1,12 @@
+**/__pycache__
+**/*.pyc
+/.vscode
+/output
+**/screenshots
+**/logs
+
+**/*.html
+**/*.xml
+**/*.png
+**/*.pdf
+**/geckodriver.log
